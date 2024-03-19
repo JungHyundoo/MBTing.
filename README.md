@@ -40,7 +40,9 @@
     - 남녀성비/매칭 성공률/유료 계정 비율
 
 - 세부기능 설계
+
 <img src="https://drive.google.com/uc?export=view&id=1c0YboAZ8iHHKSHhAUzIDXddp_vF7O6Zo" width=60% height=60%>    
+    
     - 회원관리
         - 전체 조회 및 상세 조회(마이페이지 포워딩)
         - 회원 검색 및 페이징 처리 구현
