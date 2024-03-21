@@ -12,12 +12,12 @@
 
 | 운영체제 | : WINDOW OS |
 | --- | --- |
-| 사용언어 | : Front - javaScript, JQuery, HTML5, CSS3, AJAX                              
-: Back - JAVA 11, Spring Regacy, JSP, Spring MVC |
+| 사용언어 | : Front - javaScript, JQuery, HTML5, CSS3, AJAX |                            
+|          |: Back - JAVA 11, Spring Regacy, JSP, Spring MVC |
 | FrameWork/Library | : jQuery, Bootstrap4 |
 | DB | : Oracle 11g EE, MyBatis |
-| Tool | : STS 4.23.0, Visual Studio Code, Oracle SQL Developer 23.1.0,
-  Kakao Oven, Star UML 5.0, ERD Cloud, Pigma |
+| Tool | : STS 4.23.0, Visual Studio Code, Oracle SQL Developer 23.1.0,|
+|      |  Kakao Oven, Star UML 5.0, ERD Cloud, Pigma |
 | WAS | : Apache Tomcat 9.0.80 |
 | Collaboration | : Slack |
 | API | : twak.to 채팅 API, Swiper API, kakaoLogin API, KaKaoPay API |
