@@ -33,7 +33,7 @@
 
 - 메인화면 설계
     
-<img src="https://drive.google.com/uc?export=view&id=1yL8KWHyJtnHMYOMnadT0POVOWz1pr-Iu" width=40% height=40%>
+<img src="https://drive.google.com/uc?export=view&id=1yL8KWHyJtnHMYOMnadT0POVOWz1pr-Iu" width=40% height=60%>
     
     - (전체) 회원 수, 커플 매칭 수, 결제 금액, 후기 게시글 수
     - 월별 회원가입 수/매출, 년별 매출
