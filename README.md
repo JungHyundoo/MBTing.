@@ -27,7 +27,7 @@
 
 관리자페이지 프런트엔드 및 백엔드 담당
 
-<img src="https://drive.google.com/uc?export=view&id=1TB9iy1ZUe5xww7rUgqMxy9YzK6JiFVMX" width=60% height=60%>
+<img src="https://drive.google.com/uc?export=view&id=1TB9iy1ZUe5xww7rUgqMxy9YzK6JiFVMX" width=80% height=80%>
 
 **🎈 구현기능**
 
